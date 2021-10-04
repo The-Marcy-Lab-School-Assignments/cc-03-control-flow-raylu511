@@ -47,7 +47,7 @@ function countMultiplesOfFive(numArray){
 }
 
 // countFromOne(5);                                                      //1-5
-// countEveryOdd(9);                                                     //1-9
+// countEveryOdd(9);                                                     //1 3 5 7 9
 // console.log(isNegative(-5));                                          //true
 // console.log(betweenFiveAndTwenty(12));                                //true
 // console.log(betweenFiveAndTwenty(5));                                 //true
